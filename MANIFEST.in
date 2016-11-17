@@ -1,0 +1,6 @@
+recursive-include docs *
+recursive-include unisearch_django/static *
+recursive-include unisearch_django/templates *
+include LICENSE
+include README.rst
+prune example/
